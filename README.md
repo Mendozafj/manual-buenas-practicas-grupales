@@ -38,7 +38,8 @@ Este enfoque permite mantener un historial claro del progreso y facilita la traz
 Para obtener la versión en PDF se debe utilizar "Pandoc".
 
 ```
-pandoc documentos/manual.md -o documentos/manual.pdf
+cd documentos
+pandoc manual.md -o manual.pdf
 ```
 
 ## Versionado

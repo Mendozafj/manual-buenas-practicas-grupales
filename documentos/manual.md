@@ -1,5 +1,20 @@
 # Manual de Buenas Prácticas para Trabajos Universitarios en Grupo
 
+**Asignatura:** Proyecto de Sistema  
+**Tema:** Uso de Git y GitHub en la elaboración de trabajos académicos en grupo  
+**Autor:** Francisco Salcedo
+**Profesor:** Edgardo Paolini
+**Institución:** Universidad Valle Del Momboy
+**Fecha:** 20/11/2025
+
+## Presentación
+
+Este manual tiene como propósito ofrecer una guía clara y práctica para la elaboración de trabajos universitarios en grupo, poniendo especial atención en la organización, la redacción colaborativa y el uso de herramientas digitales para el control de versiones. A partir de la experiencia habitual de los estudiantes, se abordan problemas frecuentes como la falta de coordinación, la distribución desigual de tareas, los retrasos en las entregas y las dificultades para integrar aportes de varias personas en un solo documento coherente.
+
+A lo largo de sus secciones se presentan recomendaciones sobre la estructura de los trabajos académicos, la gestión del tiempo, la asignación de roles, el uso de estilos de citación y la revisión final del documento. Además, se incorpora el uso de Git y GitHub como parte del proceso, no desde una perspectiva técnica avanzada, sino como herramientas que permiten registrar cambios, organizar el trabajo y mantener un historial ordenado del proyecto.
+
+El objetivo no es ofrecer un modelo rígido, sino un conjunto de orientaciones que puedan adaptarse a distintas asignaturas, tipos de proyectos y tamaños de grupo. De este modo, el manual pretende servir como apoyo tanto para estudiantes que comienzan a trabajar en equipo como para aquellos que buscan mejorar la calidad y la organización de sus trabajos académicos.
+
 ## Introducción
 
 El trabajo en equipo es una de las habilidades más valoradas tanto en la vida académica como profesional. Sin embargo, muchos grupos enfrentan dificultades por falta de organización, mala comunicación o ausencia de un método claro de colaboración. Este manual tiene como objetivo servir como guía práctica para planificar, desarrollar y entregar trabajos universitarios de alta calidad, promoviendo la eficiencia y la colaboración.
@@ -21,6 +36,7 @@ En proyectos más largos, es útil establecer fechas de revisión intermedia. Es
 Desde una perspectiva individual, es recomendable aplicar técnicas sencillas para mantener la concentración, como trabajar en intervalos cortos y hacer pausas regulares. El enfoque por bloques de tiempo ayuda a evitar la saturación y permite avanzar de manera constante. Además, utilizar herramientas digitales como calendarios, recordatorios o tableros de tareas puede facilitar la organización personal y colectiva.
 
 En resumen, una buena gestión del tiempo se construye combinando planificación, comunicación y seguimiento. Los equipos que adoptan estos principios suelen trabajar con menos estrés y obtienen mejores resultados, ya que cada etapa del proyecto recibe la atención necesaria y no se deja para última hora.
+
 ## Organización del equipo
 
 La organización interna de un equipo de trabajo suele ser el factor que determina si un proyecto avanza con claridad o se convierte en una serie de esfuerzos aislados y poco coordinados. Incluso en grupos pequeños, establecer una estructura básica permite que cada miembro comprenda qué debe hacer, cuándo debe hacerlo y qué espera el resto del equipo de su participación. Cuando no existe una organización clara, es frecuente que aparezcan problemas como duplicación de tareas, retrasos, malentendidos o secciones del trabajo que no encajan entre sí.
@@ -78,6 +94,7 @@ Independientemente del estilo elegido, el aspecto más relevante es la coherenci
 La calidad de las fuentes también es fundamental. Un buen trabajo académico no debe depender exclusivamente de blogs, páginas no verificadas o contenido informal. Es preferible utilizar artículos científicos, libros académicos, documentos institucionales y fuentes oficiales. Cuando se consulte internet, es importante asegurarse de que la información sea confiable y esté actualizada.
 
 Finalmente, conviene mantener una lista de referencias desde el inicio del proyecto. Agregar las fuentes al final de la escritura puede hacer que se pierdan datos o que se omitan detalles importantes. Llevar un registro organizado evita confusiones y facilita el proceso de citación durante la redacción.
+
 ## Estructura estándar de un trabajo académico
 
 La mayoría de los trabajos universitarios siguen una estructura relativamente uniforme, independientemente de la disciplina o del profesor que lo asigne. Aunque cada institución puede tener sus propias variaciones, existe una composición general que facilita la lectura, la evaluación y la comparación entre proyectos. Conocer estas convenciones ayuda a los estudiantes a producir documentos más consistentes y profesionales, además de permitir que los miembros del equipo trabajen siguiendo un mismo orden lógico.
@@ -164,4 +181,3 @@ A continuación, se presenta un resumen de verificación útil para los últimos
 8. Las tablas, figuras o anexos están bien ubicados y numerados.  
 9. El archivo final (PDF o Word) se genera sin errores y es legible.  
 
-Esta lista no sustituye una revisión detallada, pero sirve como guía para asegurar que el trabajo cumpla con los estándares mínimos de calidad antes de ser entregado.
