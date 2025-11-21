@@ -1,0 +1,30 @@
+## v1.1 – Actualización de portada, introducción y PDF final  
+**Fecha:** 21/11/2025
+
+### Cambios realizados
+- Actualización completa de la portada del manual, incluyendo datos más detallados y una presentación más formal.
+- Revisión y ampliación de la introducción, con el objetivo de ofrecer un contexto más claro y mejor fundamentado sobre el propósito del manual y el uso de Git y GitHub en el proyecto.
+- Generación del documento final en formato PDF mediante Pandoc, utilizando un flujo de conversión explicado en el README para facilitar la replicación del proceso.
+- Incorporación del archivo `manual.pdf` dentro de la carpeta `/documentos`, manteniendo la estructura del repositorio.
+- Actualización del README para documentar el proceso de conversión a PDF y las herramientas utilizadas.
+
+## v1.0 – Primera versión completa del manual  
+**Fecha:** 20/11/2025
+
+### Cambios realizados
+- Integración de todas las secciones principales del manual en un solo documento (`manual.md`), incluyendo:
+  - Portada preliminar  
+  - Presentación  
+  - Introducción  
+  - Organización del equipo  
+  - Gestión del tiempo  
+  - Control de versiones aplicado a documentos  
+  - Estructura estándar de un trabajo académico  
+  - Formatos y estilo de citación  
+  - Buenas prácticas de redacción colaborativa  
+  - Integración final y revisión  
+  - Checklist final antes de entregar  
+- Desarrollo del flujo de trabajo mediante issues, ramas independientes y Pull Requests para cada sección.
+- Configuración inicial del tablero del proyecto y cierre sistemático de las tareas relacionadas.
+- Inclusión del README con las instrucciones principales del proyecto.
+- Preparación del repositorio para futuras versiones mediante versionado semántico y archivo CHANGELOG.
