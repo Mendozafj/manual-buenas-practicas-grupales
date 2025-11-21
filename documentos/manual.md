@@ -7,6 +7,14 @@
 **Institución:** Universidad Valle Del Momboy
 **Fecha:** 20/11/2025
 
+## Presentación
+
+Este manual tiene como propósito ofrecer una guía clara y práctica para la elaboración de trabajos universitarios en grupo, poniendo especial atención en la organización, la redacción colaborativa y el uso de herramientas digitales para el control de versiones. A partir de la experiencia habitual de los estudiantes, se abordan problemas frecuentes como la falta de coordinación, la distribución desigual de tareas, los retrasos en las entregas y las dificultades para integrar aportes de varias personas en un solo documento coherente.
+
+A lo largo de sus secciones se presentan recomendaciones sobre la estructura de los trabajos académicos, la gestión del tiempo, la asignación de roles, el uso de estilos de citación y la revisión final del documento. Además, se incorpora el uso de Git y GitHub como parte del proceso, no desde una perspectiva técnica avanzada, sino como herramientas que permiten registrar cambios, organizar el trabajo y mantener un historial ordenado del proyecto.
+
+El objetivo no es ofrecer un modelo rígido, sino un conjunto de orientaciones que puedan adaptarse a distintas asignaturas, tipos de proyectos y tamaños de grupo. De este modo, el manual pretende servir como apoyo tanto para estudiantes que comienzan a trabajar en equipo como para aquellos que buscan mejorar la calidad y la organización de sus trabajos académicos.
+
 ## Introducción
 
 El trabajo en equipo es una de las habilidades más valoradas tanto en la vida académica como profesional. Sin embargo, muchos grupos enfrentan dificultades por falta de organización, mala comunicación o ausencia de un método claro de colaboración. Este manual tiene como objetivo servir como guía práctica para planificar, desarrollar y entregar trabajos universitarios de alta calidad, promoviendo la eficiencia y la colaboración.
