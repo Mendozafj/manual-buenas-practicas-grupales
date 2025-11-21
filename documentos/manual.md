@@ -117,3 +117,21 @@ Además, es recomendable asignar a una persona la función de editor final. Aunq
 Por último, la redacción colaborativa requiere flexibilidad y disposición al diálogo. No todos los miembros del equipo tienen la misma manera de escribir o expresarse, y parte del trabajo consiste en negociar decisiones y aceptar sugerencias. Cuando el grupo mantiene una comunicación abierta y respetuosa, el proceso de redacción se convierte en una oportunidad para aprender y fortalecer habilidades, en lugar de convertirse en una fuente de conflictos.
 
 En conjunto, estas buenas prácticas permiten que el texto final sea más coherente, claro y profesional, independientemente del número de personas que participen en su redacción.
+
+## Integración final y revisión
+
+La integración final es una de las etapas más delicadas en la elaboración de un trabajo académico en grupo. Aunque cada integrante haya realizado su parte con responsabilidad, unir todas las secciones en un solo documento implica ajustar el estilo, revisar la coherencia interna y verificar que todas las ideas estén correctamente articuladas. Este proceso determina, en gran medida, la calidad del resultado final, por lo que conviene abordarlo con orden y atención.
+
+El primer paso en la integración consiste en reunir todas las secciones en un mismo archivo. Aunque durante el desarrollo del proyecto las partes se hayan trabajado por separado, la versión final del documento debe presentarse como una unidad. En este punto es necesario revisar que la transición entre capítulos o apartados sea fluida y que el lector pueda seguir el hilo del trabajo sin interrupciones bruscas. Si las secciones parecen desconectadas entre sí, es conveniente añadir frases de enlace o ajustar la redacción para mejorar la continuidad.
+
+Una vez unificado el contenido, es recomendable revisar la estructura general. Esto incluye verificar que la numeración de títulos y subtítulos sea coherente, que las tablas y figuras estén adecuadamente referenciadas y que el orden de las secciones coincida con el índice. También es importante comprobar que los apartados obligatorios estén presentes y que ninguno quede incompleto o demasiado breve en comparación con los demás.
+
+La revisión del estilo es otro elemento esencial. Aunque cada integrante pueda tener un modo particular de escribir, el documento final debe transmitir una voz homogénea. Esto implica revisar el uso de tiempos verbales, la forma de citar autores, la extensión de los párrafos, la terminología empleada y el nivel de formalidad. En ocasiones, es necesario reescribir frases o reorganizar ideas para adaptarlas al tono general del trabajo.
+
+En esta etapa también se revisa la calidad del contenido. Más allá de la corrección formal, es importante asegurar que los argumentos estén bien fundamentados, que no existan contradicciones entre secciones y que cada parte cumpla con su función dentro del documento. Resulta útil leer el trabajo desde la perspectiva de alguien que no participó en su elaboración, con el objetivo de detectar vacíos, redundancias o partes que requieren aclaración adicional.
+
+Después de integrar el contenido, debe verificarse la consistencia del formato. Esto incluye aspectos como la tipografía, el tamaño de letra, el interlineado, el espaciado entre párrafos y la alineación del texto. Aunque parezcan detalles menores, la uniformidad del formato contribuye a la claridad visual y da una impresión más profesional del documento.
+
+Finalmente, se recomienda realizar una revisión ortográfica y gramatical exhaustiva. Las herramientas digitales pueden ayudar a detectar errores, pero una lectura cuidadosa sigue siendo indispensable. Idealmente, esta última revisión la realiza una persona distinta a quien integró el documento, ya que es más fácil identificar fallos cuando se lee el texto con una perspectiva fresca.
+
+La integración final y la revisión no deben ser vistas como tareas aisladas realizadas al final del proceso, sino como una conclusión natural de un trabajo colaborativo bien organizado. Un documento cuidadosamente integrado refleja el esfuerzo coordinado del equipo y contribuye a que el proyecto cumpla con los estándares académicos esperados.
