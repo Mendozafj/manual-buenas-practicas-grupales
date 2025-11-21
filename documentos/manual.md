@@ -135,3 +135,33 @@ Después de integrar el contenido, debe verificarse la consistencia del formato.
 Finalmente, se recomienda realizar una revisión ortográfica y gramatical exhaustiva. Las herramientas digitales pueden ayudar a detectar errores, pero una lectura cuidadosa sigue siendo indispensable. Idealmente, esta última revisión la realiza una persona distinta a quien integró el documento, ya que es más fácil identificar fallos cuando se lee el texto con una perspectiva fresca.
 
 La integración final y la revisión no deben ser vistas como tareas aisladas realizadas al final del proceso, sino como una conclusión natural de un trabajo colaborativo bien organizado. Un documento cuidadosamente integrado refleja el esfuerzo coordinado del equipo y contribuye a que el proyecto cumpla con los estándares académicos esperados.
+
+## Checklist final antes de entregar
+
+Antes de entregar un trabajo académico, especialmente si ha sido elaborado en grupo, resulta conveniente realizar una última revisión sistemática. Este proceso ayuda a identificar errores que pudieron pasar desapercibidos y garantiza que el documento cumpla con todos los requisitos formales y de contenido. Una lista de verificación bien elaborada permite asegurar la calidad final del trabajo y evitar omisiones que podrían afectar la evaluación.
+
+El primer punto a verificar es la estructura general del documento. El trabajo debe incluir todos los apartados solicitados y seguir el orden previamente establecido: portada, índice, introducción, desarrollo, conclusiones y referencias. También es importante comprobar que la numeración de las secciones sea coherente y que los títulos sigan un esquema uniforme. Si el documento contiene anexos, tablas o figuras, estos deben estar correctamente señalados y ubicados en lugares apropiados.
+
+A continuación, debe revisarse la coherencia del contenido. Esto implica leer el documento completo para asegurarse de que no existan contradicciones entre las secciones, que las ideas fluyan de manera lógica y que todas las afirmaciones estén respaldadas por evidencia adecuada. En trabajos grupales, este paso es especialmente importante, ya que diferentes integrantes pueden haber interpretado el tema desde perspectivas distintas. La revisión final permite unificar esos enfoques.
+
+Otro aspecto relevante es la consistencia del estilo. Esto incluye el tono de la redacción, el uso de tiempos verbales, la extensión de los párrafos y la forma de presentar citas y referencias. Si el documento mezcla estilos distintos, la lectura puede resultar confusa o poco profesional. Una última revisión estilística asegura que el trabajo mantenga una voz homogénea y clara.
+
+También es necesario verificar el formato general. El tamaño de la letra, la tipografía, el interlineado, los márgenes y la alineación deben cumplir con las normas exigidas por la institución o por el profesor. Aunque estos elementos pueden parecer secundarios, una presentación cuidada genera una impresión positiva y facilita la lectura del documento.
+
+La revisión ortográfica y gramatical debe realizarse de manera minuciosa. Las herramientas automáticas pueden ser de ayuda, pero no detectan todos los casos, especialmente aquellos relacionados con palabras mal usadas o construcciones ambiguas. Leer el texto en voz alta o pedir a otra persona que lo revise puede ayudar a identificar problemas que pasan inadvertidos durante la escritura.
+
+Por último, conviene revisar que todas las referencias estén correctamente citadas y que la bibliografía cumpla con el estilo elegido. Cada fuente utilizada debe aparecer en la lista final, y todas las citas presentes en el texto deben tener una correspondencia clara con esa lista.
+
+A continuación, se presenta un resumen de verificación útil para los últimos minutos antes de entregar:
+
+1. El documento incluye todos los apartados necesarios.  
+2. El índice está actualizado y coincide con la estructura del texto.  
+3. Las secciones están integradas de manera coherente.  
+4. El estilo de redacción es uniforme en todo el documento.  
+5. El formato sigue las normas establecidas.  
+6. No hay errores ortográficos ni gramaticales evidentes.  
+7. Las referencias están completas y correctamente citadas.  
+8. Las tablas, figuras o anexos están bien ubicados y numerados.  
+9. El archivo final (PDF o Word) se genera sin errores y es legible.  
+
+Esta lista no sustituye una revisión detallada, pero sirve como guía para asegurar que el trabajo cumpla con los estándares mínimos de calidad antes de ser entregado.
