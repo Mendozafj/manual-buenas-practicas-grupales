@@ -99,3 +99,21 @@ Finalmente, se agregan las referencias. Este apartado reúne todas las fuentes u
 Al final, si se requiere, se pueden añadir anexos. Estos incluyen materiales complementarios, como encuestas completas, gráficos adicionales, documentos extensos o cualquier elemento que respalde el trabajo pero que no necesariamente debe estar dentro del cuerpo principal.
 
 Aunque esta estructura puede variar ligeramente, su adopción permite que el equipo mantenga una guía clara al momento de trabajar y facilita que cada integrante se enfoque en una parte específica del documento sin perder de vista el orden general del proyecto.
+
+## Buenas prácticas de redacción colaborativa
+
+Redactar en grupo no es simplemente dividir el trabajo en partes y unirlas al final. La redacción colaborativa implica coordinar estilos, integrar diferentes perspectivas y construir un documento que mantenga coherencia en fondo y forma. Cuando cada integrante escribe de una manera distinta o utiliza criterios diferentes, el resultado suele ser un texto fragmentado, con cambios de tono y variaciones en la estructura que dificultan la lectura. Por esta razón, es necesario contar con un conjunto de normas mínimas que orienten el proceso.
+
+Una de las prácticas más importantes es acordar un estilo de redacción antes de comenzar. Esto incluye el tipo de lenguaje que se usará, el nivel de formalidad, la extensión aproximada de los párrafos y la estructura de las oraciones. También es útil definir la manera de abordar conceptos complejos, el uso de ejemplos y la forma de presentar las conclusiones. Aunque estas decisiones parezcan menores, suelen marcar la diferencia entre un documento cohesionado y uno que refleja claramente la mezcla de voces individuales.
+
+Otro aspecto clave es el uso de una plantilla o formato de referencia. Si todos los integrantes utilizan la misma estructura para títulos, subtítulos, listas o tablas, la integración final resulta mucho más sencilla. Incluso detalles como la alineación del texto, el interlineado, la numeración de secciones o el tamaño de la fuente influyen en la armonía visual del documento. Trabajar con una plantilla evita inconsistencias que, aunque parezcan poco relevantes, pueden impactar en la presentación general del trabajo.
+
+La revisión constante es otro componente fundamental. En lugar de esperar a que todos terminen sus partes para revisarlas, es preferible realizar lecturas periódicas del avance. Estas revisiones permiten detectar problemas de coherencia, redundancias o diferencias estilísticas antes de que se acumulen. También facilitan la retroalimentación entre los miembros del equipo, lo cual enriquece el contenido y fortalece la integración de las ideas.
+
+El uso de herramientas digitales de colaboración puede apoyar significativamente este proceso. Plataformas como Google Docs permiten trabajar en modo sugerencias, lo que permite comentar y proponer cambios sin modificar directamente el texto original. Por su parte, GitHub facilita la revisión detallada mediante comentarios en los Pull Requests, donde cada modificación queda registrada y puede discutirse antes de ser aprobada.
+
+Además, es recomendable asignar a una persona la función de editor final. Aunque todos los integrantes participen activamente en la redacción, contar con una figura responsable de unificar el tono y realizar ajustes finales garantiza una mayor consistencia. Esta persona no solo revisa errores ortográficos o gramaticales, sino que también verifica que todas las partes del documento sigan un hilo conductor.
+
+Por último, la redacción colaborativa requiere flexibilidad y disposición al diálogo. No todos los miembros del equipo tienen la misma manera de escribir o expresarse, y parte del trabajo consiste en negociar decisiones y aceptar sugerencias. Cuando el grupo mantiene una comunicación abierta y respetuosa, el proceso de redacción se convierte en una oportunidad para aprender y fortalecer habilidades, en lugar de convertirse en una fuente de conflictos.
+
+En conjunto, estas buenas prácticas permiten que el texto final sea más coherente, claro y profesional, independientemente del número de personas que participen en su redacción.
