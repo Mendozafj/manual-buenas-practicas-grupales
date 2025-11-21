@@ -58,3 +58,25 @@ En ocasiones, puede suceder que dos integrantes editen la misma parte del docume
 El uso de control de versiones también permite llevar un registro histórico del trabajo. Cada commit representa un progreso concreto, lo que ayuda a comprender el recorrido del proyecto, identificar errores o revertir modificaciones si es necesario. Este nivel de trazabilidad es difícil de lograr cuando se trabaja únicamente con archivos enviados por correo o carpetas compartidas sin control.
 
 En conjunto, aplicar control de versiones a documentos académicos no solo organiza el trabajo del equipo, sino que fomenta prácticas más profesionales y responsables. Además, facilita la colaboración, reduce el riesgo de pérdidas o sobrescrituras y permite construir un documento final más pulido y coherente.
+
+## Estructura estándar de un trabajo académico
+
+La mayoría de los trabajos universitarios siguen una estructura relativamente uniforme, independientemente de la disciplina o del profesor que lo asigne. Aunque cada institución puede tener sus propias variaciones, existe una composición general que facilita la lectura, la evaluación y la comparación entre proyectos. Conocer estas convenciones ayuda a los estudiantes a producir documentos más consistentes y profesionales, además de permitir que los miembros del equipo trabajen siguiendo un mismo orden lógico.
+
+Un trabajo académico comienza normalmente con una portada. Este elemento incluye el título del proyecto, los nombres de los integrantes, el nombre de la asignatura, el profesor responsable y la fecha de entrega. La portada cumple una función principalmente identificadora y no debe sobrecargarse de información innecesaria. Su diseño debe ser claro, legible y acorde con las normas de la institución.
+
+Después de la portada se presenta el índice o tabla de contenidos. Este apartado permite al lector orientarse en el documento y conocer rápidamente la organización interna del trabajo. En textos extensos, un buen índice facilita la navegación y hace más evidente la estructura general del contenido. Es recomendable actualizarlo al final del proceso de escritura para evitar inconsistencias en la numeración.
+
+La introducción constituye la primera parte sustantiva del trabajo. Su propósito es presentar el tema, exponer el objetivo principal y justificar la relevancia del estudio o del proyecto. También puede explicar brevemente la metodología utilizada o la manera en que está organizado el documento. Aunque cada grupo puede abordar la introducción con su propio estilo, debe ser concisa y ofrecer una visión general clara del trabajo.
+
+La sección de desarrollo o cuerpo del trabajo es la parte central del documento y suele agrupar la mayor cantidad de contenido. Dependiendo de la naturaleza del proyecto, esta sección puede dividirse en capítulos o apartados que aborden diferentes aspectos del tema: fundamentos teóricos, análisis, procedimientos, discusión de resultados, entre otros. La clave es mantener un orden lógico, asegurarse de que cada subsección tenga una relación clara con el objetivo del trabajo y evitar repeticiones o saltos abruptos entre ideas.
+
+En algunos trabajos, especialmente los más formales o extensos, se incluye un apartado de resultados. Aquí se presentan los hallazgos del estudio o del proyecto, ya sea en forma de datos, gráficos, tablas o explicaciones cualitativas. Aunque no siempre es indispensable, esta sección ayuda a separar la descripción del proceso del análisis final.
+
+La conclusión resume los aspectos más importantes del trabajo y presenta reflexiones finales. No debe convertirse en una repetición literal del contenido anterior, sino que debe sintetizar las ideas principales, destacar los aportes del proyecto y señalar posibles líneas futuras de investigación o trabajo.
+
+Finalmente, se agregan las referencias. Este apartado reúne todas las fuentes utilizadas en el desarrollo del proyecto: artículos académicos, libros, documentos oficiales, sitios web confiables, entre otros. La organización de las referencias depende del estilo de citación elegido (APA, IEEE, MLA, etc.), por lo que es importante seguir las normas correspondientes con rigor.
+
+Al final, si se requiere, se pueden añadir anexos. Estos incluyen materiales complementarios, como encuestas completas, gráficos adicionales, documentos extensos o cualquier elemento que respalde el trabajo pero que no necesariamente debe estar dentro del cuerpo principal.
+
+Aunque esta estructura puede variar ligeramente, su adopción permite que el equipo mantenga una guía clara al momento de trabajar y facilita que cada integrante se enfoque en una parte específica del documento sin perder de vista el orden general del proyecto.
