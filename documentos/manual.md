@@ -1,5 +1,12 @@
 # Manual de Buenas Prácticas para Trabajos Universitarios en Grupo
 
+**Asignatura:** Proyecto de Sistema  
+**Tema:** Uso de Git y GitHub en la elaboración de trabajos académicos en grupo  
+**Autor:** Francisco Salcedo
+**Profesor:** Edgardo Paolini
+**Institución:** Universidad Valle Del Momboy
+**Fecha:** 20/11/2025
+
 ## Introducción
 
 El trabajo en equipo es una de las habilidades más valoradas tanto en la vida académica como profesional. Sin embargo, muchos grupos enfrentan dificultades por falta de organización, mala comunicación o ausencia de un método claro de colaboración. Este manual tiene como objetivo servir como guía práctica para planificar, desarrollar y entregar trabajos universitarios de alta calidad, promoviendo la eficiencia y la colaboración.
