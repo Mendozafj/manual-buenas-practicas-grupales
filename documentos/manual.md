@@ -59,6 +59,25 @@ El uso de control de versiones también permite llevar un registro histórico de
 
 En conjunto, aplicar control de versiones a documentos académicos no solo organiza el trabajo del equipo, sino que fomenta prácticas más profesionales y responsables. Además, facilita la colaboración, reduce el riesgo de pérdidas o sobrescrituras y permite construir un documento final más pulido y coherente.
 
+## Formatos y estilo de citación
+
+La correcta citación de las fuentes es uno de los elementos más importantes en un trabajo académico. Citamos no solo para evitar el plagio, sino para demostrar que las ideas expuestas están respaldadas por información confiable y que el trabajo forma parte de un diálogo más amplio dentro de la comunidad académica. Además, el uso adecuado de un estilo de citación facilita la lectura, permite ubicar rápidamente las fuentes consultadas y aporta rigor al documento.
+
+Existen varios estilos de citación aceptados internacionalmente, y cada uno responde a necesidades distintas según la disciplina. Entre los más utilizados se encuentran APA, MLA, Chicago, IEEE y Vancouver. Aunque estos estilos comparten ciertos principios básicos, difieren en la forma de presentar la información, tanto en el texto como en la lista de referencias.
+
+El estilo APA se utiliza con frecuencia en ciencias sociales, educación y psicología. Su característica principal es el uso del apellido del autor y el año de publicación dentro del texto. Por ejemplo: “según Pérez (2022)” o “las investigaciones recientes indican…” seguidas de la cita correspondiente. En la lista de referencias, APA exige presentar los datos de manera muy estructurada, incluyendo autor, año, título, editorial o enlace, dependiendo del tipo de fuente.
+
+El estilo MLA se emplea principalmente en humanidades, como literatura o estudios culturales. A diferencia de APA, MLA utiliza el apellido del autor y el número de página para las citas dentro del texto, lo cual es útil cuando se trabaja con análisis de obras o documentos extensos. Este estilo presta especial atención a la claridad y la fluidez en la presentación de las fuentes.
+
+El estilo Chicago ofrece dos sistemas: uno basado en notas al pie y otro similar a APA. Es común en historia y en disciplinas que requieren abundante contexto documental. Su flexibilidad permite incluir comentarios extensos en las notas al pie sin interrumpir la lectura del texto principal.
+
+En ciencias e ingeniería se utiliza con frecuencia IEEE, que numera todas las citas según el orden en el que aparecen en el documento. Esto resulta útil en artículos con numerosas referencias técnicas, ya que facilita la lectura y reduce interrupciones en el texto. Vancouver, por su parte, también emplea un sistema numérico, pero es más común en el ámbito de la salud y la medicina.
+
+Independientemente del estilo elegido, el aspecto más relevante es la coherencia. Un trabajo académico debe seguir un único estilo para todo el documento. Mezclar formatos puede generar confusión y dar la impresión de falta de cuidado en la redacción. Para mantener esa coherencia, es recomendable revisar las normas oficiales y utilizar herramientas de apoyo como gestores bibliográficos. Programas como Zotero, Mendeley o incluso Google Scholar permiten generar referencias automáticamente y exportarlas directamente al documento.
+
+La calidad de las fuentes también es fundamental. Un buen trabajo académico no debe depender exclusivamente de blogs, páginas no verificadas o contenido informal. Es preferible utilizar artículos científicos, libros académicos, documentos institucionales y fuentes oficiales. Cuando se consulte internet, es importante asegurarse de que la información sea confiable y esté actualizada.
+
+Finalmente, conviene mantener una lista de referencias desde el inicio del proyecto. Agregar las fuentes al final de la escritura puede hacer que se pierdan datos o que se omitan detalles importantes. Llevar un registro organizado evita confusiones y facilita el proceso de citación durante la redacción.
 ## Estructura estándar de un trabajo académico
 
 La mayoría de los trabajos universitarios siguen una estructura relativamente uniforme, independientemente de la disciplina o del profesor que lo asigne. Aunque cada institución puede tener sus propias variaciones, existe una composición general que facilita la lectura, la evaluación y la comparación entre proyectos. Conocer estas convenciones ayuda a los estudiantes a producir documentos más consistentes y profesionales, además de permitir que los miembros del equipo trabajen siguiendo un mismo orden lógico.
